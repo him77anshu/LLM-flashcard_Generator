@@ -46,7 +46,7 @@ streamlit run app.py
  -Review and export the generated flashcards
 
  ## Sample Input/Output
-  ![Portfolio Screenshot](preview.png)  
+  ![Portfolio Screenshot](Screenshot 2025-06-17 221555.png)  
 
 ## Project Structure 📂
 
